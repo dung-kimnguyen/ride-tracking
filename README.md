@@ -30,7 +30,3 @@ pbpaste > debug.gpx
 xmllint --format input.xml > output.xml
 awk -f gpx_fix input.gpx > output.gpx
 
-### Dependencies
-
-- https://github.com/nocerobeguhe/Circular-Meter
-- https://github.com/nocerobeguhe/CurvyRoute
