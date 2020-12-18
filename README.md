@@ -32,8 +32,5 @@ awk -f gpx_fix input.gpx > output.gpx
 
 ### Dependencies
 
-- https://github.com/avdyushin/CoreDataStorage
-- https://github.com/avdyushin/Injected
-- https://github.com/avdyushin/Localizable
-- https://github.com/avdyushin/PageView
-- https://github.com/avdyushin/SplitView
+- https://github.com/nocerobeguhe/Circular-Meter
+- https://github.com/nocerobeguhe/CurvyRoute
