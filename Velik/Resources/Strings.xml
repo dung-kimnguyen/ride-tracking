@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<strings>
+    <string id="go">
+        <en>Go</en>
+        <nl>Ga</nl>
+        <ru>Старт</ru>
+    </string>
+    <string id="stop">
+        <ru>Стоп</ru>
+        <en>Stop</en>
+        <nl>Stoppen</nl>
+    </string>
+    <string id="cancel">
+        <en>Cancel</en>
+    </string>
+    <string id="at">
+        <en>at</en>
+    </string>
+    <string id="rides">
+        <en>Rides</en>
+    </string>
+    <string id="duration">
+        <en>Duration</en>
+    </string>
+    <string id="distance">
+        <en>Distance</en>
+    </string>
+    <string id="avg_speed">
+        <en>Avg. Speed</en>
+    </string>
+    <string id="current_speed">
+        <en>Current Speed</en>
+    </string>
+    <string id="max_speed">
+        <en>Max Speed</en>
+    </string>
+    <string id="elevation_gain">
+        <en>Elevation Gain</en>
+    </string>
+    <string id="elevation">
+        <en>Elevation</en>
+    </string>
+    <string id="speed">
+        <en>Speed</en>
+    </string>
+    <string id="avg_power">
+        <en>Avg. Power</en>
+    </string>
+    <string id="energy_output">
+        <en>Energy Output</en>
+    </string>
+    <string id="weight_loss">
+        <en>Est. Weight Loss</en>
+    </string>
+    <string id="remove_ride">
+        <en>Remove Ride</en>
+    </string>
+    <string id="remove_ride_message">
+        <en>Are you sure you want to remove Ride?</en>
+    </string>
+    <string id="confirm_delete">
+        <en>Yes, please delete</en>
+    </string>
+    <string id="import_gpx_message">
+        <en>Do you want to import GPX?</en>
+    </string>
+    <string id="yes">
+        <en>Yes</en>
+    </string>
+    <string id="no">
+        <en>No</en>
+    </string>
+    <string id="no_data_available">
+        <en>No data available</en>
+    </string>
+    <string id="unnamed_ride">
+        <en>Unnamed Ride</en>
+    </string>
+    <string id="summary">
+        <en>Summary</en>
+    </string>
+    <string id="map">
+        <en>Map</en>
+    </string>
+    <string id="close">
+        <en>Close</en>
+    </string>
+    <string id="enable_location_title">
+        <en>Enable Location</en>
+    </string>
+    <string id="enable_location_details">
+        <en>App needs access to your location in order to show speed and track rides</en>
+    </string>
+</strings>

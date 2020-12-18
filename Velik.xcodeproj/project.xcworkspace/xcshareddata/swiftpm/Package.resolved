@@ -1,0 +1,52 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "CoreDataStorage",
+        "repositoryURL": "https://github.com/avdyushin/CoreDataStorage",
+        "state": {
+          "branch": null,
+          "revision": "87b9d2b695449caa014a7733f1e9257197652cbe",
+          "version": "1.0.1"
+        }
+      },
+      {
+        "package": "Injected",
+        "repositoryURL": "https://github.com/avdyushin/Injected",
+        "state": {
+          "branch": null,
+          "revision": "b58d7b8216610dc8c3bb971394437c998f13625e",
+          "version": "1.0.1"
+        }
+      },
+      {
+        "package": "Localizable",
+        "repositoryURL": "https://github.com/avdyushin/Localizable",
+        "state": {
+          "branch": null,
+          "revision": "0bdc52373db8662cf32a6a4f8964aaabbfa1b0e7",
+          "version": "1.0.2"
+        }
+      },
+      {
+        "package": "PageView",
+        "repositoryURL": "https://github.com/avdyushin/PageView",
+        "state": {
+          "branch": null,
+          "revision": "4e87b799c30b170988cc37356e7a72f9fd811fc4",
+          "version": "1.0.3"
+        }
+      },
+      {
+        "package": "SplitView",
+        "repositoryURL": "https://github.com/avdyushin/SplitView",
+        "state": {
+          "branch": null,
+          "revision": "30ac004dd5668499f055981c462d856b9e35c3b2",
+          "version": "1.0.3"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
