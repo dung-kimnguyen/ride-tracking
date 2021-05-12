@@ -1,8 +1,6 @@
 # ride-tracking.app
 ## Ride tracking iOS app
 
-<img src="ride-tracking.png" width="256" />
-
 Build in SwiftUI using Combine and CoreData
 
 ### Features
