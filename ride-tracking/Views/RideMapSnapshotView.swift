@@ -2,8 +2,8 @@
 //  RideMapSnapshotView.swift
 //  ride-tracking
 //
-//  Created by Nocero Beguhe on 04/07/2020.
-//  Copyright © 2020 Nocero Beguhe. All rights reserved.
+//  Created by Dung Kim Nguyen on 04/07/2020.
+//  Copyright © 2020 Dung Kim Nguyen. All rights reserved.
 //
 
 import SwiftUI

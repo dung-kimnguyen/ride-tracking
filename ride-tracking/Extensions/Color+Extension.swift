@@ -2,8 +2,8 @@
 //  Color+Extension.swift
 //  Woord
 //
-//  Created by Nocero Beguhe on 15/03/2018.
-//  Copyright © 2018 Nocero Beguhe. All rights reserved.
+//  Created by Dung Kim Nguyen on 15/03/2018.
+//  Copyright © 2018 Dung Kim Nguyen. All rights reserved.
 //
 
 import UIKit

@@ -2,8 +2,8 @@
 //  ride-trackingTests.swift
 //  ride-trackingTests
 //
-//  Created by Nocero Beguhe on 30/04/2020.
-//  Copyright © 2020 Nocero Beguhe. All rights reserved.
+//  Created by Dung Kim Nguyen on 30/04/2020.
+//  Copyright © 2020 Dung Kim Nguyen. All rights reserved.
 //
 
 import XCTest

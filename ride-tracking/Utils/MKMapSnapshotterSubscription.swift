@@ -2,8 +2,8 @@
 //  MKMapSnapshotterSubscription.swift
 //  ride-tracking
 //
-//  Created by Nocero Beguhe on 19/06/2020.
-//  Copyright © 2020 Nocero Beguhe. All rights reserved.
+//  Created by Dung Kim Nguyen on 19/06/2020.
+//  Copyright © 2020 Dung Kim Nguyen. All rights reserved.
 //
 
 import MapKit
